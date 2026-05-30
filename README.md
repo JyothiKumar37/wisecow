@@ -77,7 +77,7 @@ GitHub Actions CI/CD
 │   ├── deployment.yaml
 │   ├── service.yaml
 │   ├── ingress.yaml
-│   └── tls-secret.yaml
+│   
 │
 ├── .github
 │   └── workflows
